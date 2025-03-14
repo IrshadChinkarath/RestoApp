@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { display, styled } from "@mui/system";
-import { Box, Menu, Typography } from "@mui/material";
+import {  styled } from "@mui/system";
+import { Box, Typography } from "@mui/material";
 import CustomButton from "../CustomButton/CustomButton";
 import Logo from "../../assets/logo.png";
 
